@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="JavaOSC">
+    <archive path="H:/codebase/workspace/RemoteInput/lib/javaoscfull.jar" />
+  </library>
+  <library name="resources" />
+</eclipse-userlibraries>
+
